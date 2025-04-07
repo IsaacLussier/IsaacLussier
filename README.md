@@ -14,7 +14,6 @@ Some languages I'm familiar with so far:
 - C
 - Python
 - javascript
-- Markdown!
 
 Excited to update my repos as well as this README in the future. Here's to a good semester!
 
